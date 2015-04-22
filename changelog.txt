@@ -1,0 +1,7 @@
+[B]v1.0.1[/B] - Changes made by TheHighway.
+- Adjust ments to slingfront_plugin.py for XBMC's new .exe filename, Kodi.exe.
+- Adjust ments to slingfront_plugin.py for left-sided spacing.
+- Changes made to addon.xml for XBMC 13.x to Kodi 15.x.
+
+[B]v1[/B]
+- ...
